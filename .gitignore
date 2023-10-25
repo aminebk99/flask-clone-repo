@@ -1,0 +1,55 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Ignore environment-specific directories
+instance/
+env/
+venv/
+.vscode/
+
+# Logs
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore generated files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Configuration files
+config.py
+
+# Local development configuration
+.env
+.venv
+# Compiled source
+*.pyc
+
+# Caches
+__pycache__/
+.cached/
+
+# Static and compiled assets
+static/
+dist/
+node_modules/
+.env
+
+# IDE-specific files
+.vscode/
+
+# Testing and coverage
+.coverage
+htmlcov
+
+# Translations
+*.mo
+
+# Other generated files
+db.sqlite
